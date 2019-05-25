@@ -1,0 +1,6 @@
+rohan		Sat May 25 04:18:38 2019
+
+
+17|laptop|1|40000|40000|32000
+total amount = 32000
+
